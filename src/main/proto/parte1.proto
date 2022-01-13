@@ -18,7 +18,7 @@ option java_package = "ds.trabalho.parte";
 option java_outer_classname = "parte1Proto";
 option objc_class_prefix = "p1";
 
-package parte2;
+package parte1;
 
 // The greeting service definition.
 service tokenRing {
